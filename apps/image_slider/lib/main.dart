@@ -3,7 +3,7 @@ import 'package:image_slider/screen/home_screen.dart';
 
 void main() {
   runApp(
-    const MaterialApp(
+    MaterialApp(
       home: HomeScreen(),
     ),
   );
